@@ -22,7 +22,7 @@ CryptoMonitor é um projeto Python para monitorar o mercado de criptomoedas em b
 1. Clone o repositório:
 
    ```bash
-   git clone <URL-do-repositorio>
+   git clone https://github.com/AMonteiroDBA/CryptoMonitor.git
    cd CryptoMonitor
    ```
 
